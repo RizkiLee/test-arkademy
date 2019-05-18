@@ -10,7 +10,9 @@ Ini berarti bahwa pengembang tidak perlu menginstal library atau perangkat lunak
 ([Sumber](https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it))
 
 
-2. [Sumber1](https://stackoverflow.com/questions/4356289/php-random-string-generator
-https://stackoverflow.com/questions/3145607/php-check-if-an-array-has-duplicates) [Sumber2](https://stackoverflow.com/questions/3145607/php-check-if-an-array-has-duplicates)
 
-3. [Sumber1](https://stackoverflow.com/questions/5989221/how-to-find-string-length-in-php-with-out-using-strlen) [Sumber2](https://stackoverflow.com/questions/6476346/how-to-get-the-count-of-string-2-occurrence-in-string-1-without-php-built-in-fun)
+2. [Sumber1](https://stackoverflow.com/questions/4356289/php-random-string-generator)
+[Sumber2](https://stackoverflow.com/questions/3145607/php-check-if-an-array-has-duplicates)
+
+3. [Sumber1](https://stackoverflow.com/questions/5989221/how-to-find-string-length-in-php-with-out-using-strlen)
+[Sumber2](https://stackoverflow.com/questions/6476346/how-to-get-the-count-of-string-2-occurrence-in-string-1-without-php-built-in-fun)
