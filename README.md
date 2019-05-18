@@ -1,5 +1,5 @@
 # test-arkademy
-
+  
 1.  
 REST atau RESTful API design (Representational State Transfer) dirancang untuk memanfaatkan protokol yang ada.  
 Meskipun REST dapat digunakan di hampir semua protokol, biasanya memanfaatkan HTTP ketika digunakan untuk Web API.  
